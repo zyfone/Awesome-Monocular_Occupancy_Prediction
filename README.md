@@ -1,7 +1,7 @@
 # Awesome Occupancy Prediction/Semantic Scene Completion
 
 
-***
+
 ### CVPR2025
 > **Occupancy_Prediction**
 > 1. UniScene: Unified Occupancy-centric Driving Scene Generation
