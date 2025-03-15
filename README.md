@@ -2,7 +2,7 @@
 
 
 
-### CVPR2025
+### CVPR'25
 > **Occupancy_Prediction**
 > 1. UniScene: Unified Occupancy-centric Driving Scene Generation
 > 2. VoxelSplat: Dynamic Gaussian Splatting as an Effective Loss for Occupancy and Flow Prediction
@@ -23,4 +23,18 @@
 > 1. SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion
 > 2. SOAP: Vision-Centric 3D Semantic Scene Completion with Scene-Adaptive Decoder and Occluded Region-Aware View Projection
 > 3. Three Cars Approaching within 100m! Enhancing Distant Geometry by Tri-Axis Voxel Scanning for Camera-based Semantic Scene Completion
+
 ***
+
+### ICRA'25
+> 1.SliceOcc: Indoor 3D Semantic Occupancy Prediction with Vertical Slice Representation
+### ICRA'24
+> **Occupancy_Prediction**
+> 1. CVFormer: Learning Circum-View Representation and Consistency Constraints for Vision-Based Occupancy Prediction Via Transformers
+> 2. FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird's-Eye View and Perspective View
+> 3. MonoOcc: Digging into Monocular Semantic Occupancy Prediction
+> 4. RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision
+
+> **Semantic Scene Completion**
+> 1. PointSSC: A Cooperative Vehicle-Infrastructure Point Cloud Benchmark for Semantic Scene Completion
+> 2. SLCF-Net: Sequential LiDAR-Camera Fusion for Semantic Scene Completion Using a 3D Recurrent U-Net
