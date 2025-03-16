@@ -2,6 +2,22 @@
 [NOTE]  
 The VoxFormer codebase ([GitHub](https://github.com/NVlabs/VoxFormer)) from a 2025 paper is a popular baseline for Monocular 3D Occupancy Prediction/Semantic Scene Completion.
 
+### Journal
+> 1. MixSSC: Forward-Backward Mixture for Vision-based 3D Semantic Scene Completion (TVSCT'25)
+
+### Arvix
+> 1. Global-Aware Monocular Semantic Scene Completion with State Space Models
+> 2. OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework
+> 3. GaussRender: Learning 3D Occupancy with Gaussian Rendering
+> 4. Learning A Zero-shot Occupancy Network from Vision Foundation Models via Self-supervised Adaptation
+> 5. Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models
+> 6. Event-aided Semantic Scene Completion
+> 7. SliceOcc: Indoor 3D Semantic Occupancy Prediction with Vertical Slice Representation
+> 8. Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion
+> 9. LEAP: Enhancing Vision-Based Occupancy Networks with Lightweight Spatio-Temporal Correlation
+> 10. Vision-based 3D Semantic Scene Completion via Capture Dynamic Representations
+> 11. Fake It To Make It: Virtual Multiviews to Enhance Monocular Indoor Semantic Scene Completion
+
 ### CVPR'25
 > **Occupancy_Prediction**
 > 1. VoxelSplat: Dynamic Gaussian Splatting as an Effective Loss for Occupancy and Flow Prediction
