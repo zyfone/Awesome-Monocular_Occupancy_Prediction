@@ -1,4 +1,4 @@
-# Awesome Monocular Occupancy Prediction/Semantic Scene Completion
+# Awesome Occupancy Prediction/Semantic Scene Completion
 [NOTE]  
 The VoxFormer codebase ([GitHub](https://github.com/NVlabs/VoxFormer)) from a 2025 paper is a popular baseline for Monocular 3D Occupancy Prediction/Semantic Scene Completion.
 
