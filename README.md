@@ -1,6 +1,6 @@
 # Awesome Occupancy Prediction/Semantic Scene Completion
-
-
+[NOTE]  
+The VoxFormer codebase ([GitHub](https://github.com/NVlabs/VoxFormer)) from a 2025 paper is a popular baseline for Monocular 3D Occupancy Prediction/Semantic Scene Completion.
 
 ### CVPR'25
 > **Occupancy_Prediction**
@@ -25,6 +25,15 @@
 > 3. Three Cars Approaching within 100m! Enhancing Distant Geometry by Tri-Axis Voxel Scanning for Camera-based Semantic Scene Completion
 
 ***
+
+### WACV'25
+> **Occupancy_Prediction**
+> 1. OccLoff: Learning Optimized Feature Fusion for 3D Occupancy Prediction
+> 2. PVP: Polar Representation Boost for 3D Semantic Occupancy Prediction
+> **Semantic Scene Completion**
+> 1. DepthSSC: Monocular 3D Semantic Scene Completion via Depth-Spatial Alignment and Voxel Adaptation
+
+
 
 ### ICRA'25
 > 1.SliceOcc: Indoor 3D Semantic Occupancy Prediction with Vertical Slice Representation
