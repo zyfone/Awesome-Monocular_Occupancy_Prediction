@@ -4,7 +4,6 @@ The VoxFormer codebase ([GitHub](https://github.com/NVlabs/VoxFormer)) from a 20
 
 ### CVPR'25
 > **Occupancy_Prediction**
-> 1. UniScene: Unified Occupancy-centric Driving Scene Generation
 > 2. VoxelSplat: Dynamic Gaussian Splatting as an Effective Loss for Occupancy and Flow Prediction
 > 3. SDGOCC: Semantic and Depth-Guided Bird’s-Eye View Transformation for 3D Multimodal Occupancy Prediction
 > 4. Rethinking Temporal Fusion with A Unified Gradient Descent View for 3D Semantic Occupancy Prediction
