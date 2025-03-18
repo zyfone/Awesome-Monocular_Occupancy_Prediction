@@ -17,7 +17,7 @@ The VoxFormer codebase ([GitHub](https://github.com/NVlabs/VoxFormer)) from a 20
 > 9. LEAP: Enhancing Vision-Based Occupancy Networks with Lightweight Spatio-Temporal Correlation
 > 10. Vision-based 3D Semantic Scene Completion via Capture Dynamic Representations
 > 11. Fake It To Make It: Virtual Multiviews to Enhance Monocular Indoor Semantic Scene Completion
-> 12. **OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction** 🌹
+
 
 ### CVPR'25
 > **Occupancy_Prediction**
@@ -52,7 +52,8 @@ The VoxFormer codebase ([GitHub](https://github.com/NVlabs/VoxFormer)) from a 20
 
 
 ### ICRA'25
-> 1.SliceOcc: Indoor 3D Semantic Occupancy Prediction with Vertical Slice Representation
+> 1. SliceOcc: Indoor 3D Semantic Occupancy Prediction with Vertical Slice Representation
+> 2. > 12. **OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction** 🌹
 ### ICRA'24
 > **Occupancy_Prediction**
 > 1. CVFormer: Learning Circum-View Representation and Consistency Constraints for Vision-Based Occupancy Prediction Via Transformers
