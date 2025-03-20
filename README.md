@@ -5,20 +5,6 @@ The VoxFormer codebase ([GitHub](https://github.com/NVlabs/VoxFormer)) from a 20
 ### Journal
 > 1. MixSSC: Forward-Backward Mixture for Vision-based 3D Semantic Scene Completion (TVSCT'25)
 
-### Arvix
-> 1. Global-Aware Monocular Semantic Scene Completion with State Space Models
-> 2. OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework
-> 3. GaussRender: Learning 3D Occupancy with Gaussian Rendering
-> 4. Learning A Zero-shot Occupancy Network from Vision Foundation Models via Self-supervised Adaptation
-> 5. Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models
-> 6. Event-aided Semantic Scene Completion
-> 7. SliceOcc: Indoor 3D Semantic Occupancy Prediction with Vertical Slice Representation
-> 8. Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion
-> 9. LEAP: Enhancing Vision-Based Occupancy Networks with Lightweight Spatio-Temporal Correlation
-> 10. Vision-based 3D Semantic Scene Completion via Capture Dynamic Representations
-> 11. Fake It To Make It: Virtual Multiviews to Enhance Monocular Indoor Semantic Scene Completion
-
-
 ### 2025
 > **Occupancy_Prediction**
 > 1. VoxelSplat: Dynamic Gaussian Splatting as an Effective Loss for Occupancy and Flow Prediction
@@ -38,13 +24,24 @@ The VoxFormer codebase ([GitHub](https://github.com/NVlabs/VoxFormer)) from a 20
 > 15. PVP: Polar Representation Boost for 3D Semantic Occupancy Prediction
 > 16. SliceOcc: Indoor 3D Semantic Occupancy Prediction with Vertical Slice Representation
 > 17. **OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction** 🌹
-
+> 18. [CVPR 2025] 3D Occupancy Prediction with Low-resolution Queries via Prototype-aware View Transformation
+> 19. OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework
+> 20. GaussRender: Learning 3D Occupancy with Gaussian Rendering
+> 21. LEAP: Enhancing Vision-Based Occupancy Networks with Lightweight Spatio-Temporal Correlation
+> 22. SliceOcc: Indoor 3D Semantic Occupancy Prediction with Vertical Slice Representation
+> 23. Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models
+> 24. Learning A Zero-shot Occupancy Network from Vision Foundation Models via Self-supervised Adaptation
 
 > **Semantic Scene Completion**
 > 1. SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion
 > 2. SOAP: Vision-Centric 3D Semantic Scene Completion with Scene-Adaptive Decoder and Occluded Region-Aware View Projection
 > 3. Three Cars Approaching within 100m! Enhancing Distant Geometry by Tri-Axis Voxel Scanning for Camera-based Semantic Scene Completion
 > 4. DepthSSC: Monocular 3D Semantic Scene Completion via Depth-Spatial Alignment and Voxel Adaptation
+> 5. Global-Aware Monocular Semantic Scene Completion with State Space Models
+> 6. Fake It To Make It: Virtual Multiviews to Enhance Monocular Indoor Semantic Scene Completion
+> 7. Vision-based 3D Semantic Scene Completion via Capture Dynamic Representations
+> 8. Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion
+> 9. Event-aided Semantic Scene Completion
 
 
 
