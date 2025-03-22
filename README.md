@@ -44,6 +44,7 @@ FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height P
 > 7. Vision-based 3D Semantic Scene Completion via Capture Dynamic Representations
 > 8. Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion
 > 9. Event-aided Semantic Scene Completion
+> 10.  **VLScene: Vision-Language Guidance Distillation for Camera-Based 3D Semantic Scene Completion** 🌹
 
 
 
