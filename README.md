@@ -64,7 +64,7 @@ These approaches are shaping the field and opening new opportunities for advance
 > 7. Vision-based 3D Semantic Scene Completion via Capture Dynamic Representations
 > 8. Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion
 > 9. Event-aided Semantic Scene Completion
-> 10.  **[AAAI 2025 Oral ] VLScene: Vision-Language Guidance Distillation for Camera-Based 3D Semantic Scene Completion** 🌹
+> 10. [AAAI 2025 Oral ] VLScene: Vision-Language Guidance Distillation for Camera-Based 3D Semantic Scene Completion
 
 
 
