@@ -27,6 +27,7 @@ These approaches are shaping the field and opening new opportunities for advance
 
 ### Journal
 > 1. MixSSC: Forward-Backward Mixture for Vision-based 3D Semantic Scene Completion (TVSCT'25)
+> 2. Camera-based 3D Semantic Scene Completion with Sparse Guidance Network (Tip-2024)  **SOTA** 🏆 
 
 ### 2025
 > **Occupancy_Prediction**
