@@ -10,14 +10,15 @@ FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height P
 Occupancy Prediction and Semantic Scene Completion are still in their early stages.  
 Popular methods that are gaining traction and making research easier to publish include:
 
-- **Diffusion Models**  2025-SSC-[8]
+- **Diffusion Models**  2025-Arvis-[8]
 - **Prompt Learning**  N/A
 - **Chain-of-Thought**  N/A
-- **Mamba**  2025-OCC-[12], 2025-SSC-[8]
-- **Vision Foundation Models**  Journal-[1], 2025-SSC-[10]
+- **Mamba**  2025-Arvis-[12], 2025-Arvis-[8]
+- **Vision Foundation Models**  2025-TCSVT-[1], 2025-AAAI-[10]
 - **Large-Kernel Conv** N/A
 - **KAN** N/A
-- **Self-Supervised Learning** 2025-OCC-[5]
+- **Self-Supervised Learning** 2025-Arvis-[5]
+- **3D Gaussians** 2024-ECCV-[6]
   
 
 These approaches are shaping the field and opening new opportunities for advancements.
@@ -76,9 +77,19 @@ These approaches are shaping the field and opening new opportunities for advance
 > 3. MonoOcc: Digging into Monocular Semantic Occupancy Prediction
 > 4. RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision
 > 5. [NeurIPS 2024 Spotlight] Context and Geometry Aware Voxel Transformer for Semantic Scene Completion
+> 6. [ECCV 2024] Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction
 
 > **Semantic Scene Completion**
 > 1. PointSSC: A Cooperative Vehicle-Infrastructure Point Cloud Benchmark for Semantic Scene Completion
 > 2. SLCF-Net: Sequential LiDAR-Camera Fusion for Semantic Scene Completion Using a 3D Recurrent U-Net
 > 3. [ECCV 2024] Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion
 > 4. [IJCAI 2024] Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion
+
+
+
+## Other Paper References  
+
+For a collection of papers and resources on **3D Occupancy Prediction**, check out the following repository:  
+
+[Awesome 3D Occupancy Prediction](https://github.com/zya3d/Awesome-3D-Occupancy-Prediction)  
+
