@@ -15,6 +15,10 @@ Popular methods that are gaining traction and making research easier to publish 
 - **Chain-of-Thought**  N/A
 - **Mamba**  2025-OCC-[12], 2025-SSC-[8]
 - **Vision Foundation Models**  Journal-[1], 2025-SSC-[10]
+- **Large-Kernel Conv** N/A
+- **KAN** N/A
+- **Self-Supervised Learning** 2025-OCC-[5]
+  
 
 These approaches are shaping the field and opening new opportunities for advancements.
 
