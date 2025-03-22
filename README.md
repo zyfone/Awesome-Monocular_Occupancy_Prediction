@@ -52,6 +52,7 @@ The VoxFormer codebase ([GitHub](https://github.com/NVlabs/VoxFormer)) from a 20
 > 2. FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird's-Eye View and Perspective View
 > 3. MonoOcc: Digging into Monocular Semantic Occupancy Prediction
 > 4. RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision
+> 5. [NeurIPS 2024 Spotlight] Context and Geometry Aware Voxel Transformer for Semantic Scene Completion
 
 > **Semantic Scene Completion**
 > 1. PointSSC: A Cooperative Vehicle-Infrastructure Point Cloud Benchmark for Semantic Scene Completion
