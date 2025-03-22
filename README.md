@@ -4,8 +4,8 @@ The VoxFormer codebase ([GitHub](https://github.com/NVlabs/VoxFormer)) from a 20
 
 FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin
 
-[TIPS]
-# Current Trends in Occupancy Prediction & Semantic Scene Completion
+
+#[TIPS]-Current Trends in Occupancy Prediction & Semantic Scene Completion
 
 Occupancy Prediction and Semantic Scene Completion are still in their early stages.  
 Popular methods that are gaining traction and making research easier to publish include:
