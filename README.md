@@ -86,6 +86,7 @@ These approaches are shaping the field and opening new opportunities for advance
 > 2. SLCF-Net: Sequential LiDAR-Camera Fusion for Semantic Scene Completion Using a 3D Recurrent U-Net
 > 3. [ECCV 2024] Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion
 > 4. [IJCAI 2024] Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion
+> 5. [NeurIPS 2024 Spotlight] **Context and Geometry Aware Voxel Transformer for Semantic Scene Completion** 🌹🌹🌹🌹
 
 
 
