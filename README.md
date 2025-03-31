@@ -47,7 +47,6 @@
 > 25. [AAAI 2025] M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving
 > 26. Mitigating Trade-off: Stream and Query-guided Aggregationq for Efficient and Effective 3D Occupancy Prediction
 > 27. **[ICLR 2025] Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving** 🌹🌹🌹
-
 > **Semantic Scene Completion**
 > 1. SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion
 > 2. SOAP: Vision-Centric 3D Semantic Scene Completion with Scene-Adaptive Decoder and Occluded Region-Aware View Projection
@@ -73,7 +72,6 @@
 > 5. [NeurIPS 2024 Spotlight] Context and Geometry Aware Voxel Transformer for Semantic Scene Completion
 > 6. [ECCV 2024] Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction
 > 7. [CVPR 2024] Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications
-
 > **Semantic Scene Completion**
 > 1. PointSSC: A Cooperative Vehicle-Infrastructure Point Cloud Benchmark for Semantic Scene Completion
 > 2. SLCF-Net: Sequential LiDAR-Camera Fusion for Semantic Scene Completion Using a 3D Recurrent U-Net
