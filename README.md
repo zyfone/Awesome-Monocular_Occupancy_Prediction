@@ -1,28 +1,19 @@
 # Awesome Occupancy Prediction/Semantic Scene Completion
 
 
+> ### Current Trends in Occupancy Prediction & Semantic Scene Completion
+> - **Diffusion Models**  2025-Arvis-[8]
+> - **Prompt Learning**  N/A                             
+> - **Chain-of-Thought**  N/A
+> - **Mamba**  2025-Arvis-[12], 2025-Arvis-[8]
+> - **Vision Foundation Models**  2025-TCSVT-[1], 2025-AAAI-[10]
+> - **Large-Kernel Conv** N/A
+> - **KAN** N/A
+> - **Self-Supervised Learning** 2025-Arvis-[5]
+> - **3D Gaussians** 2024-ECCV-[6]
+> - **Semi-Supervised**  2025-[27]
 
-# [Tips]-Current Trends in Occupancy Prediction & Semantic Scene Completion
-
-Occupancy Prediction and Semantic Scene Completion are still in their early stages.  
-Popular methods that are gaining traction and making research easier to publish include:
-
-- **Diffusion Models**  2025-Arvis-[8]
-- **Prompt Learning**  N/A
-- **Chain-of-Thought**  N/A
-- **Mamba**  2025-Arvis-[12], 2025-Arvis-[8]
-- **Vision Foundation Models**  2025-TCSVT-[1], 2025-AAAI-[10]
-- **Large-Kernel Conv** N/A
-- **KAN** N/A
-- **Self-Supervised Learning** 2025-Arvis-[5]
-- **3D Gaussians** 2024-ECCV-[6]
-- **Semi-Supervised**  2025-[27]
-  
-
-These approaches are shaping the field and opening new opportunities for advancements.
-
-
-
+            
 ### Journal
 > 1. MixSSC: Forward-Backward Mixture for Vision-based 3D Semantic Scene Completion (TVSCT'25)
 > 2. Camera-based 3D Semantic Scene Completion with Sparse Guidance Network (Tip-2024)  **SOTA** 🏆 
