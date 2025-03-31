@@ -56,6 +56,7 @@ These approaches are shaping the field and opening new opportunities for advance
 > 23. Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models
 > 24. Learning A Zero-shot Occupancy Network from Vision Foundation Models via Self-supervised Adaptation
 > 25. [AAAI 2025] M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving
+> 26. Mitigating Trade-off: Stream and Query-guided Aggregationq for Efficient and Effective 3D Occupancy Prediction
 
 > **Semantic Scene Completion**
 > 1. SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion
