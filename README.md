@@ -1,8 +1,5 @@
 # Awesome Occupancy Prediction/Semantic Scene Completion
-[NOTE]  
-The VoxFormer codebase ([GitHub](https://github.com/NVlabs/VoxFormer)) from a 2025 paper is a popular baseline for Monocular 3D Occupancy Prediction/Semantic Scene Completion.
 
-FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin
 
 
 # [Tips]-Current Trends in Occupancy Prediction & Semantic Scene Completion
@@ -19,6 +16,7 @@ Popular methods that are gaining traction and making research easier to publish 
 - **KAN** N/A
 - **Self-Supervised Learning** 2025-Arvis-[5]
 - **3D Gaussians** 2024-ECCV-[6]
+- **Semi-Supervised**  2025-[27]
   
 
 These approaches are shaping the field and opening new opportunities for advancements.
@@ -57,6 +55,7 @@ These approaches are shaping the field and opening new opportunities for advance
 > 24. Learning A Zero-shot Occupancy Network from Vision Foundation Models via Self-supervised Adaptation
 > 25. [AAAI 2025] M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving
 > 26. Mitigating Trade-off: Stream and Query-guided Aggregationq for Efficient and Effective 3D Occupancy Prediction
+> 27. **[ICLR 2025] Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving** 🌹🌹🌹
 
 > **Semantic Scene Completion**
 > 1. SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion
