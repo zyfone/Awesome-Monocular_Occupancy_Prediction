@@ -81,6 +81,7 @@ These approaches are shaping the field and opening new opportunities for advance
 > 4. RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision
 > 5. [NeurIPS 2024 Spotlight] Context and Geometry Aware Voxel Transformer for Semantic Scene Completion
 > 6. [ECCV 2024] Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction
+> 7. [CVPR 2024] Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications
 
 > **Semantic Scene Completion**
 > 1. PointSSC: A Cooperative Vehicle-Infrastructure Point Cloud Benchmark for Semantic Scene Completion
