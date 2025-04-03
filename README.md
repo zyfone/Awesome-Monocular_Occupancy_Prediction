@@ -16,7 +16,7 @@
             
 ### Journal
 > 1. MixSSC: Forward-Backward Mixture for Vision-based 3D Semantic Scene Completion (TVSCT'25)
-> 2. Camera-based 3D Semantic Scene Completion with Sparse Guidance Network (Tip-2024)  **SOTA** 🏆 
+> 2. Camera-based 3D Semantic Scene Completion with Sparse Guidance Network (Tip-2024)  
 
 ### 2025
 > **Occupancy_Prediction**
@@ -51,7 +51,7 @@
 > **Semantic Scene Completion**
 > 1. SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion
 > 2. SOAP: Vision-Centric 3D Semantic Scene Completion with Scene-Adaptive Decoder and Occluded Region-Aware View Projection
-> 3. Three Cars Approaching within 100m! Enhancing Distant Geometry by Tri-Axis Voxel Scanning for Camera-based Semantic Scene Completion
+> 3. Three Cars Approaching within 100m! Enhancing Distant Geometry by Tri-Axis Voxel Scanning for Camera-based Semantic Scene Completion **SOTA** 🏆 
 > 4. DepthSSC: Monocular 3D Semantic Scene Completion via Depth-Spatial Alignment and Voxel Adaptation
 > 5. Global-Aware Monocular Semantic Scene Completion with State Space Models
 > 6. Fake It To Make It: Virtual Multiviews to Enhance Monocular Indoor Semantic Scene Completion
